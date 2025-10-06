@@ -1,0 +1,5 @@
+--倒卖死妈死全价
+--刷钻石v2.0脚本
+--请复制下面一段 全段也可以
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sleepyvill/script/refs/heads/main/99nights.lua"))()

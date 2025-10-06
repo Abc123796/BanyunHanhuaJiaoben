@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wefwef127382/99daysloader.github.io/refs/heads/main/ringta.lua"))()
+本人伊尔德只是制作该脚本文件的，是RlNGTA脚本作者制作，自己复制

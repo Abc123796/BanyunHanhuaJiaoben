@@ -1,0 +1,5 @@
+--OverHub 刷钻石脚本
+--无密钥 免费脚本
+--我真想不明白还有人拿去倒卖 甚至骗三连
+--复制全段 以下段都可以 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hellattexyss/autofarmdiamonds/main/overhubaurofarm.lua"))()

@@ -1,0 +1,3 @@
+--[[THis document Was Protect With TiKaBot V1.2314 time：2025.9.20.23.32.42]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2012long/long/refs/heads/main/Steal%20a%20Brainrot.lua",true))()
+--请全部复制，否则加载失败

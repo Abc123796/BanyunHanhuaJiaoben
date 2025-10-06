@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gh.llkk.cc/https://raw.githubusercontent.com/BOOSBS/BS/refs/heads/main/BS/Black%20Hole%20Script/BS"))()

@@ -1,0 +1,6 @@
+--请加入dc获取最新：discord.gg/voidware
+--倒卖死妈死全价
+--voidware脚本（在森林第99夜）
+--请复制下面一段<不要全复制>
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua", true))() 

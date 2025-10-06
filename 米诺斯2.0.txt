@@ -1,0 +1,8 @@
+getgenv().MinosPrime = {  
+        MinosPrimeSkipAnimation = true,
+        MorphMinosPrime = false
+    }  
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KietVN02202/KietVN02202/refs/heads/main/MinosPrimeFanMade2.0.lua"))()
+
+加入q群1054706873获取更多

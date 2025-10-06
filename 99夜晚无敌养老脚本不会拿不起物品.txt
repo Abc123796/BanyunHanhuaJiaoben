@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/smalldesikon/vv/master/%E7%A5%9E%E5%A5%87.txt"))()
+卡密：sknb666

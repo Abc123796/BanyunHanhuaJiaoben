@@ -1,0 +1,8 @@
+--必须全部复制,孙笑川制作
+--卡死不良黄油,注意管理员
+--修复无效，尽情卡服吧
+
+while true do
+game:GetService("Players").LocalPlayer.PlayerGui.Screen:FindFirstChild("Sack UI").RemoteEvent:FireServer(unpack(args))
+wait(0.1)
+end

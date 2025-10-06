@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Guo61/Cat-/refs/heads/main/%E5%A4%A77899"))()
+   
+{官方群聊1061490197(请勿复制我)}

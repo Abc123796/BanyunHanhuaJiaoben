@@ -1,0 +1,4 @@
+getgenv().WebhookURL = "" --If not used do not write anything
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/Farm%20Diamond%20v2.lua"))()
+
+-- (IF THE ADS POPS UP JUST CLOSE IT)

